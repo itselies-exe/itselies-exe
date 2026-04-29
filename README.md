@@ -4,7 +4,7 @@
 
 Le jeu vidéo m'a bercé depuis toujours, mais pas seulement comme joueur. Très tôt, j'ai développé une curiosité dévorante pour l'envers du décor. 
 
-Dès mes 8 ans, n'ayant pas de PC pour pratiquer, je passais mon temps à regarder des tutoriels par pure passion, fasciné par la magie de la création. Un jeu a marqué le tournant de ma vie : **Mortal Kombat Armageddon**. Je me souviens avoir passé des heures dans les menus secrets pour accéder au *Game Art Video Studio*. Regarder ces vidéos de conception était mon moment préféré ; je kiffais découvrir comment ces mondes prenaient vie.
+Dès mes 8 ans, n'ayant pas de PC pour pratiquer, je passais mon temps à regarder des tutoriels et interview par pure passion, fasciné par la magie de la création. Un jeu a marqué le tournant de ma vie : **Mortal Kombat Armageddon**. Je me souviens avoir passé des heures dans les menus secrets pour accéder au *Game Art Video Studio*. Regarder ces vidéos de conception était mon moment préféré ; je kiffais découvrir comment ces mondes prenaient vie.
 
 Aujourd'hui, je ne suis plus derrière l'écran à regarder. Je ne cherche pas la facilité, je cherche la performance. Je suis en plein "tryhard" sur **C++** et **Unreal Engine** pour transformer cette passion d'enfance en une carrière de **Gameplay Programmer**.
 
