@@ -14,9 +14,9 @@ Aujourd'hui, je ne suis plus derrière l'écran à regarder. Je ne cherche pas l
 
 J'affine mes compétences chaque jour pour dompter Unreal Engine et C++.
 
-| 🎮 Game Dev & Engine | ⚙️ Programmation Système |
-| :--- | :--- |
-| ![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23232F3E.svg?style=for-the-badge&logo=unity&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white) |
+| 🎮 Game Dev & Engine | ⚙️ Programmation Système | 📚 En cours d'apprentissage |
+| :--- | :--- | :--- |
+| ![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) | ![Swift](https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white) |
 
 ---
 
