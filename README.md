@@ -1,4 +1,4 @@
-# ⚔️Salut moi c'est Elies ! | Objectif Gameplay Programmer 
+# ⚔️Salut, moi c'est Elies ! | Objectif Gameplay Programmer 
 
 ## 🕹️ À propos de moi : De spectateur à créateur
 
