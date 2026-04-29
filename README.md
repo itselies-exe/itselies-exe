@@ -23,7 +23,7 @@ J'affine mes compétences chaque jour pour dompter Unreal Engine et C++.
 ## 🚀 En cours de compilation... (Objectifs 2026)
 
 - [x] Maîtriser les types de variables en C++.
-- [ ] Connecter Visual Studio 2026 à ce GitHub pour tracker ma progression.
+- [x] Connecter Visual Studio 2026 à ce GitHub pour tracker ma progression.
 - [ ] Développer mon premier jeux gratuit UnrealEngine en (C++, Blueprint).
 
 ---
