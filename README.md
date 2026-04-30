@@ -25,7 +25,7 @@ J'affine mes compétences chaque jour pour dompter Unreal Engine et C++.
 - [ ] Terminer la formation Apple Foundation.
 - [x] Maîtriser les types de variables en C++.
 - [x] Connecter Visual Studio 2026 à ce GitHub pour tracker ma progression.
-- [ ] Développer mon premier jeux gratuit UnrealEngine en (C++, Blueprint).
+- [ ] Développer mon premier jeux complet UnrealEngine en (C++, Blueprint).
 
 ---
 
