@@ -31,7 +31,7 @@ J'affine mes compétences chaque jour pour dompter Unreal Engine et C++.
 
 ## 📊 Statistiques de Combat
 
-[![itselies-exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=itselies-exe&show_icons=true&theme=dark)](https://github.com/itselies-exe/github-readme-stats)
+![Stats de Elies](https://github-readme-stats-eight-theta.vercel.app/api?username=itselies-exe&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itselies-exe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
